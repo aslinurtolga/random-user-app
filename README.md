@@ -8,10 +8,10 @@
 
 ![image](./user.jpg)
 
+## Project Skeleton
 
-## Random User App (folder)
 ```
-|
+| Random User App (folder)
 |----readme.md      
 SOLUTION
 ├── public
