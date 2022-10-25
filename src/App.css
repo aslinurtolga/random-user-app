@@ -5,16 +5,16 @@
   font-size: 1.2rem;
   border-radius: 5px;
   border: none;
-  background-color: #df7861;
-  color: white;
+  background: linear-gradient( 64.3deg,  rgba(254,122,152,0.81) 17.7%, rgba(255,206,134,1) 64.7%, rgba(172,253,163,0.64) 112.1% );;
+  color: rgb(129, 116, 116);
   cursor: pointer;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 9px;
   font-family: "Quicksand", sans-serif;
 }
 
 .btn:hover {
-  background-color: white;
-  color: #ecb390;
+  background: linear-gradient( 103.3deg,  rgba(252,225,208,1) 30%, rgba(255,173,214,1) 55.7%, rgba(162,186,245,1) 81.8% );;
+  color: black;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   transition: all 300ms;
 }
@@ -24,4 +24,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+
+.imgStyle{
+border-radius: 50%;
 }

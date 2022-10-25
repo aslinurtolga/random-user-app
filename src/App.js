@@ -30,7 +30,7 @@ function App() {
   }, []);
 
   if (loading) {
-    return <RingLoader color="#EA5C2B" />;
+    return <RingLoader color="#F65A83" />;
   }
 
   return (

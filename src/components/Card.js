@@ -19,7 +19,7 @@ const Card = ({ user }) => {
     <div className="bigContainer">
       <div className="cardContainer">
         <div>
-          <img src={medium} alt="img" />
+          <img className="imgStyle" src={medium} alt="img" />
         </div>
         <div>
           <h3>
