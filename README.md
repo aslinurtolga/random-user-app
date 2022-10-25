@@ -1,3 +1,36 @@
+# 🚀 Random User App React Project
+
+## Animation of the Website
+
+![image](./randomuser.gif)
+
+## Visulation of the Website
+
+![image](./user.jpg)
+
+
+## Random User App (folder)
+```
+|
+|----readme.md      
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── assets.js
+│    │       └── [images]
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
