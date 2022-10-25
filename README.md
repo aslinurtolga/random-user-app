@@ -26,7 +26,24 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
+### Overview
 
+I mastered HTML & CSS & JS & ReactJS features in this project.
+You can see the visual representation of the website above.
+
+## Notes
+
+- Step 1: Create React App using `npx create-react-app random-user-app`
+
+- Step 2: For your project you can use [RandomUser API](https://randomuser.me/api).
+
+- Step 3: Push your application into your own public repo on Github
+
+- Step 4: Add project gif to your project and README.md file.
+
+## Resources
+
+- 🔥 You can use [Random User API](https://randomuser.me/api) for your own work.
 
 
 
