@@ -1,0 +1,37 @@
+.bigContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardContainer {
+  width: 500px;
+  height: 400px;
+  background: #d5d8b5;
+  background: radial-gradient(
+    circle,
+    rgba(213, 216, 181, 1) 40%,
+    rgba(128, 154, 111, 1) 100%
+  );
+  -webkit-box-shadow: 10px 10px 14px 0px rgba(150, 161, 148, 1);
+  -moz-box-shadow: 10px 10px 14px 0px rgba(150, 161, 148, 1);
+  box-shadow: 10px 10px 14px 0px rgba(150, 161, 148, 1);
+  display: grid;
+  grid-template-columns: 100px 300px;
+  grid-template-rows: 100px 50px 50px 50px 25px 25px;
+  gap: 10px;
+  justify-content: center;
+  align-content: center;
+  border-radius: 5px;
+}
+
+.cardContainer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block {
+  grid-column: 1/3;
+}
